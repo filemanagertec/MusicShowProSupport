@@ -1,2 +1,2 @@
-# 音乐秀
+# 音乐秀Pro
 If you have any technical questions or suggestions, please contact us by email: cindyleung7@qq.com
